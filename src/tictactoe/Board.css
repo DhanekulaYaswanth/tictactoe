@@ -90,6 +90,9 @@
     font-size: 150px;
 }
 
+.buttons>label{
+    cursor: pointer;
+}
 
 .pop{
     animation: pop .2s ease;

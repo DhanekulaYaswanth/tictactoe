@@ -297,7 +297,7 @@ function Board() {
                         winner === 1 ? 'Player 1 won the Game' :
                             winner === 2 ? 'Player 2 won the Game' :
                                 turn === 1 ? 'Player 1\'s turn' :
-                                    turn === 2 ? 'Player 2\'s turn' :
+                                    turn === 2 ? mode===0?'Computer\'s turn':'Player 2\'s turn' :
                                         ''
                 }
             </h1>
@@ -329,7 +329,7 @@ function Board() {
                                         Tie
                                     </th>
                                     <th className={turn===2 || turn===null?"playertitle":"playertitle gray"}>
-                                        Player 2({chances!==null? chances[1] : ''})
+                                        {mode===0?'Computer':'Player 2'}({chances!==null? chances[1] : ''})
                                     </th>
                                     <th rowSpan={2} className="playertitle players" onClick={()=>changeMode()}>
                                         <label ><FontAwesomeIcon icon={mode===0?faUser:faUserGroup}/></label>
