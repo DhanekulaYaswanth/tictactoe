@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tictactoe/static/css/main.9a807903.css",
-    "main.js": "/tictactoe/static/js/main.4d5eb044.js",
+    "main.css": "/tictactoe/static/css/main.5128b4e8.css",
+    "main.js": "/tictactoe/static/js/main.9577f32e.js",
     "static/media/win.wav": "/tictactoe/static/media/win.693a159cfe675f3b9215.wav",
     "static/media/GloriaHallelujah-Regular.ttf": "/tictactoe/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
     "static/media/tie.mp3": "/tictactoe/static/media/tie.074348a6e26caba26bf3.mp3",
     "static/media/one.wav": "/tictactoe/static/media/one.cc48b8125a924aa402aa.wav",
     "static/media/two.wav": "/tictactoe/static/media/two.ae2de8e7e136703f3626.wav",
     "index.html": "/tictactoe/index.html",
-    "main.9a807903.css.map": "/tictactoe/static/css/main.9a807903.css.map",
-    "main.4d5eb044.js.map": "/tictactoe/static/js/main.4d5eb044.js.map"
+    "main.5128b4e8.css.map": "/tictactoe/static/css/main.5128b4e8.css.map",
+    "main.9577f32e.js.map": "/tictactoe/static/js/main.9577f32e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a807903.css",
-    "static/js/main.4d5eb044.js"
+    "static/css/main.5128b4e8.css",
+    "static/js/main.9577f32e.js"
   ]
 }
