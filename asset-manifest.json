@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dhanekulayaswanth.github.io/tictactoe/static/css/main.3c035186.css",
-    "main.js": "/dhanekulayaswanth.github.io/tictactoe/static/js/main.a164996d.js",
-    "static/media/win.wav": "/dhanekulayaswanth.github.io/tictactoe/static/media/win.693a159cfe675f3b9215.wav",
-    "static/media/GloriaHallelujah-Regular.ttf": "/dhanekulayaswanth.github.io/tictactoe/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
-    "static/media/tie.mp3": "/dhanekulayaswanth.github.io/tictactoe/static/media/tie.074348a6e26caba26bf3.mp3",
-    "static/media/one.wav": "/dhanekulayaswanth.github.io/tictactoe/static/media/one.cc48b8125a924aa402aa.wav",
-    "static/media/two.wav": "/dhanekulayaswanth.github.io/tictactoe/static/media/two.ae2de8e7e136703f3626.wav",
-    "index.html": "/dhanekulayaswanth.github.io/tictactoe/index.html",
-    "main.3c035186.css.map": "/dhanekulayaswanth.github.io/tictactoe/static/css/main.3c035186.css.map",
-    "main.a164996d.js.map": "/dhanekulayaswanth.github.io/tictactoe/static/js/main.a164996d.js.map"
+    "main.css": "/tictactoe/static/css/main.9a807903.css",
+    "main.js": "/tictactoe/static/js/main.4d5eb044.js",
+    "static/media/win.wav": "/tictactoe/static/media/win.693a159cfe675f3b9215.wav",
+    "static/media/GloriaHallelujah-Regular.ttf": "/tictactoe/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
+    "static/media/tie.mp3": "/tictactoe/static/media/tie.074348a6e26caba26bf3.mp3",
+    "static/media/one.wav": "/tictactoe/static/media/one.cc48b8125a924aa402aa.wav",
+    "static/media/two.wav": "/tictactoe/static/media/two.ae2de8e7e136703f3626.wav",
+    "index.html": "/tictactoe/index.html",
+    "main.9a807903.css.map": "/tictactoe/static/css/main.9a807903.css.map",
+    "main.4d5eb044.js.map": "/tictactoe/static/js/main.4d5eb044.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c035186.css",
-    "static/js/main.a164996d.js"
+    "static/css/main.9a807903.css",
+    "static/js/main.4d5eb044.js"
   ]
 }
